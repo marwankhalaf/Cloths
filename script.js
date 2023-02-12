@@ -1,5 +1,5 @@
 // start logic
-
+// nav and links
 
 let left = document.querySelector(".left");
 let right = document.querySelector(".right");
